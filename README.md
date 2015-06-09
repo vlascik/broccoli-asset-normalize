@@ -1,2 +1,2 @@
 # broccoli-asset-normalize
-# copy assets and rewrite css urls
+copy assets and rewrite css urls
